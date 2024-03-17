@@ -12,6 +12,7 @@ main section {
 
 main h1, h2 {
   text-align: center;
+  color: crimson;
 }
 
 main img {
