@@ -10,9 +10,14 @@ main section {
   margin-bottom: 40px;
 }
 
-main h1, h2 {
+main h1,
+h2 {
   text-align: center;
   color: crimson;
+}
+
+main section p {
+  color: dimgrey;
 }
 
 main img {
